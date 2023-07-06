@@ -1,0 +1,8 @@
+pandas
+flask
+numpy
+beautifulsoup4
+matplotlib
+scipy
+
+-e .
